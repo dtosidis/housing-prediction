@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/dtosidis/housing_prediction.svg?style=svg)](https://circleci.com/gh/dtosidis/housing_prediction)
+
 
 ## Project Overview
 
